@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: studentportfolio
-        image: ghcr.io/rrcsmehta3/studentportfolio:latest
+        image: ghcr.io/rrcsmehta3/studentportfolio:337d2b873cb1ffb383db980e1f59b53b763c7ab0
